@@ -1,0 +1,36 @@
+DIV.panel-pane DIV.admin-links {
+	FONT-SIZE: xx-small; MARGIN-RIGHT: 1em
+}
+DIV.panel-pane DIV.admin-links LI A {
+	COLOR: #ccc
+}
+DIV.panel-pane DIV.admin-links LI {
+	Z-INDEX: 201; BACKGROUND: white; PADDING-BOTTOM: 2px
+}
+DIV.panel-pane DIV.admin-links:hover A {
+	COLOR: #000
+}
+DIV.panel-pane DIV.admin-links-hover A {
+	COLOR: #000
+}
+DIV.panel-pane DIV.admin-links A:unknown {
+	content: "["
+}
+DIV.panel-pane DIV.admin-links A:unknown {
+	content: "]"
+}
+DIV.panel-pane DIV.panel-hide {
+	DISPLAY: none
+}
+DIV.panel-pane DIV.panel-hide-hover {
+	MARGIN-TOP: -1.5em; DISPLAY: block; Z-INDEX: 200; POSITION: absolute
+}
+DIV.panel-pane:hover DIV.panel-hide {
+	MARGIN-TOP: -1.5em; DISPLAY: block; Z-INDEX: 200; POSITION: absolute
+}
+DIV.panel-pane DIV.node {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.panel-pane DIV.feed A {
+	FLOAT: right
+}

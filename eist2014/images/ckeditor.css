@@ -1,0 +1,42 @@
+.rteindent1 {
+	MARGIN-LEFT: 40px
+}
+.rteindent2 {
+	MARGIN-LEFT: 80px
+}
+.rteindent3 {
+	MARGIN-LEFT: 120px
+}
+.rteindent4 {
+	MARGIN-LEFT: 160px
+}
+.rteleft {
+	TEXT-ALIGN: left
+}
+.rteright {
+	TEXT-ALIGN: right
+}
+.rtecenter {
+	TEXT-ALIGN: center
+}
+.rtejustify {
+	TEXT-ALIGN: justify
+}
+.ibimage_left {
+	FLOAT: left
+}
+.ibimage_right {
+	FLOAT: right
+}
+TABLE.cke_editor FIELDSET {
+	PADDING-RIGHT: 0px! important; PADDING-LEFT: 0px! important; PADDING-BOTTOM: 0px! important; PADDING-TOP: 0px! important
+}
+.cke_editor {
+	
+}
+.cke_editor {
+	
+}
+#bug {
+	
+}
