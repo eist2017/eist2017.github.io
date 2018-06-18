@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on 全国嵌入式仪表及系统技术会议</title>
+    <link>https://eist2017.github.io/blog/index.xml</link>
+    <description>Recent content in Blogs on 全国嵌入式仪表及系统技术会议</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Copyright (c) 2017, 上海大学; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 11 Mar 2017 10:55:10 +0800</lastBuildDate>
+    <atom:link href="https://eist2017.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2017嵌入式仪表及系统技术会议征文通知</title>
+      <link>https://eist2017.github.io/blog/2017/03/11/a/</link>
+      <pubDate>Sat, 11 Mar 2017 10:55:10 +0800</pubDate>
+      
+      <guid>https://eist2017.github.io/blog/2017/03/11/a/</guid>
+      <description>&lt;p&gt;为了推进全国嵌入式技术在仪器仪表领域的应用及发展， 中国仪器仪表学会嵌入式仪表及系统技术分会将于 2017年 10 月 20 - 22 日在安徽省淮南市举行“ 2017 全国嵌入式仪表及系统技术会议” 。 本次会议由安徽理工大学和上海大学联合承办， 该系列会议自 2009 年以来已成功举办八届，现已成为嵌入式系统及相关领域的专家、学者、业界人士以及研究生进行学术交流、产学互动的重要学术交流会议。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;本次是第九届，会议主题是“嵌入式智能系统与测控网络安全专家论坛” ， 旨在讨论嵌入式系统及测控网络、智能感知、 公共服务信息化等领域的最新研究成果和发展趋势， 特别是面临的网络安全与安全测控挑战， 为全国嵌入式系统及相关领域的学者和业内人士提供一个交流最新研究成果、进行广泛学术讨论的平台。届时主办方将邀请相关领域的国内外知名学者和业界精英做精彩学术报告， 同时还将邀请嵌入式技术应用领域的相关企业参加，进行技术研讨和新产品展示等。&lt;/p&gt;
+
+&lt;p&gt;现特发征文通知，欢迎从事嵌入式系统技术、 智能感知、 公共服务信息化建设、网络及系统安全等领域研究与应用的高校师生、企业科技人员踊跃投稿。有关通知内容如下：&lt;/p&gt;
+
+&lt;h4 id=&#34;一-征文内容&#34;&gt;一、征文内容&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;基于嵌入式技术的新型能源利用&lt;/li&gt;
+&lt;li&gt;嵌入式技术在节能、环保等领域中的应用&lt;/li&gt;
+&lt;li&gt;嵌入式系统中的工业通信网络&lt;/li&gt;
+&lt;li&gt;网络控制系统的通信协议和传输协议&lt;/li&gt;
+&lt;li&gt;物联网通信系统&lt;/li&gt;
+&lt;li&gt;先进传感器技术&lt;/li&gt;
+&lt;li&gt;汽车仪表与汽车电子&lt;/li&gt;
+&lt;li&gt;车联网与智能交通&lt;/li&gt;
+&lt;li&gt;过程控制、系统建模与企业综合自动化&lt;/li&gt;
+&lt;li&gt;电力系统中的嵌入式智能仪表和系统应用&lt;/li&gt;
+&lt;li&gt;工业物联网中的检测技术&lt;/li&gt;
+&lt;li&gt;图像处理、 视频跟踪与监控&lt;/li&gt;
+&lt;li&gt;基于嵌入式的遥感测绘技术&lt;/li&gt;
+&lt;li&gt;无线传感器网络技术&lt;/li&gt;
+&lt;li&gt;智能医疗器械和临床应用&lt;/li&gt;
+&lt;li&gt;传感器与射频识别技术&lt;/li&gt;
+&lt;li&gt;嵌入式仪器仪表设计与应用&lt;/li&gt;
+&lt;li&gt;基于嵌入式的各种数据采集系统&lt;/li&gt;
+&lt;li&gt;生物医学信息融合及处理&lt;/li&gt;
+&lt;li&gt;网络控制系统入侵检测与安全控制技术&lt;/li&gt;
+&lt;li&gt;针对网络攻击的控制系统风险评估&lt;/li&gt;
+&lt;li&gt;其他相关主题&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;二-征文要求&#34;&gt;二、 征文要求&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;会议接收中英文稿件， 应征稿件必须属于作者原创，其观点明确、论据充分、公式正确、图表清晰、文字简练；&lt;/li&gt;
+&lt;li&gt;拒绝涉密稿件， 一旦出现涉密问题均由作者本人自负；&lt;/li&gt;
+&lt;li&gt;稿件需按照本次会议提供的模板进行排版， 并采用电子邮件投稿方式。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;三-论文出版方式与重要时间&#34;&gt;三、 论文出版方式与重要时间&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;会议接收稿件择优推荐到《仪器仪表学报》（ EI 期刊）、 Recent Advances in Electrical &amp;amp; Electronic Engineering（ EI期刊），《仪表技术》、《电子测量技术》、《国外电子测量技术》 等期刊正刊发表。&lt;/li&gt;
+&lt;li&gt;征文截稿时间： 2017 年 6 月 10 日&lt;/li&gt;
+&lt;li&gt;录用通知时间： 2017 年 7 月 31 日&lt;/li&gt;
+&lt;li&gt;最终稿递交时间： 2017 年 8 月 31 日&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;四-联系信息&#34;&gt;四、 联系信息&lt;/h4&gt;
+
+&lt;p&gt;联系人： 陈 灵 / 魏利胜 / 杨傲雷 / 陈静&lt;/p&gt;
+
+&lt;p&gt;电 话： 13062619397 / 15212281833 / 17091832206 / 18955435543&lt;/p&gt;
+
+&lt;p&gt;投稿邮箱： embedcis@163.com 会议网址： &lt;a href=&#34;http://www.eist.org.cn/&#34;&gt;http://www.eist.org.cn/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

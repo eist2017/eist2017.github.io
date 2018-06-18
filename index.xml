@@ -6,23 +6,69 @@
     <description>Recent content on 全国嵌入式仪表及系统技术会议</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>Copyright (c) 2017, 上海大学; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 11 Mar 2017 10:55:10 +0800</lastBuildDate>
+    <copyright>Copyright (c) 2018, 上海大学; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 10 Mar 2018 14:05:43 +0800</lastBuildDate>
     <atom:link href="https://eist2017.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>2017嵌入式仪表及系统技术会议征文通知</title>
+      <title>关于本会</title>
+      <link>https://eist2017.github.io/about/</link>
+      <pubDate>Sat, 10 Mar 2018 14:05:43 +0800</pubDate>
+      
+      <guid>https://eist2017.github.io/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;欢迎来到第十届全国嵌入式仪表及系统技术会议&#34;&gt;欢迎来到第十届全国嵌入式仪表及系统技术会议&lt;/h1&gt;
+
+&lt;p&gt;　　为了推进全国嵌入式技术在仪器仪表、智能系统领域的应用及发展，中国仪器仪表学会嵌入式仪表及系统技术分会将于2018年 10月 19-21日在山东省烟台市举行“2018 全国嵌入式仪表及系统技术会议”。本次会议由鲁东大学和上海大学联合承办，该系列会议自2009年以来已成功举办9 届，现已成为嵌入式系统及相关领域的专家、学者、业界人士以及研究生进行学术交流、产学互动的重要学术交流会议。本次是第十届，会议主题是“嵌入式智能系统与智慧海洋专家论坛”，旨在讨论嵌入式系统及海洋测控网络、海洋大数据采集、智能感知、海洋能源、海洋渔业、水下机器人、船舶制造等领域的最新研究成果和发展趋势，特别是海洋产业在新旧动能转换过程中面临的技术性挑战，为全国嵌入式系统及相关领域的学者和业内人士提供一个交流最新研究成果、进行广泛学术讨论的平台。届时主办方将邀请相关领域的国内外知名学者和业界精英做精彩学术报告，同时还将邀请嵌入式技术应用领域的相关企业参加，进行技术研讨和新产品展示等。&lt;/p&gt;
+
+&lt;p&gt;我们热忱欢迎各位同仁莅临本届会议！&lt;/p&gt;
+
+&lt;h2 id=&#34;重要日期&#34;&gt;重要日期：&lt;/h2&gt;
+
+&lt;p&gt;1、 征文截稿时间：2018年6月20日；&lt;/p&gt;
+
+&lt;p&gt;2、 论文录用通知时间：2018年7月31日；&lt;/p&gt;
+
+&lt;p&gt;3、 论文正式稿递交时间：2018年8月31日。&lt;/p&gt;
+
+&lt;h2 id=&#34;联系信息&#34;&gt;联系信息:&lt;/h2&gt;
+
+&lt;p&gt;联系人：陈 灵  / 周文举  / 魏利胜 / 杨傲雷&lt;/p&gt;
+
+&lt;p&gt;电  话：13062619397 / 13156929148 / 15212281833 / 17091832206&lt;/p&gt;
+
+&lt;p&gt;投稿邮箱：embedcis@163.com&lt;/p&gt;
+
+&lt;p&gt;会议网址：&lt;a href=&#34;http://www.eist.org.cn/&#34;&gt;http://www.eist.org.cn/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;往届会议&#34;&gt;往届会议&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://eist2017.github.io/eist2017/index.html&#34;&gt;第九届全国嵌入式仪表及系统技术会议（安徽 淮南）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://eist2017.github.io/eist2016/index.html&#34;&gt;第八届全国嵌入式仪表及系统技术会议（河南 郑州）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://eist2017.github.io/eist2015/index.html&#34;&gt;第七届全国嵌入式仪表及系统技术会议(云南 昆明)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://eist2017.github.io/eist2014/index.html&#34;&gt;第六届全国嵌入式仪表及系统技术会议(上海)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://eist2017.github.io/eist2013/index.html&#34;&gt;第五届全国嵌入式仪表及系统技术会议(江苏 南京)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2018嵌入式仪表及系统技术会议征文通知</title>
       <link>https://eist2017.github.io/blog/2017/03/11/a/</link>
       <pubDate>Sat, 11 Mar 2017 10:55:10 +0800</pubDate>
       
       <guid>https://eist2017.github.io/blog/2017/03/11/a/</guid>
-      <description>&lt;p&gt;为了推进全国嵌入式技术在仪器仪表领域的应用及发展， 中国仪器仪表学会嵌入式仪表及系统技术分会将于 2017年 10 月 20 - 22 日在安徽省淮南市举行“ 2017 全国嵌入式仪表及系统技术会议” 。 本次会议由安徽理工大学和上海大学联合承办， 该系列会议自 2009 年以来已成功举办八届，现已成为嵌入式系统及相关领域的专家、学者、业界人士以及研究生进行学术交流、产学互动的重要学术交流会议。&lt;/p&gt;
+      <description>&lt;p&gt;为了推进全国嵌入式技术在仪器仪表、智能系统领域的应用及发展，中国仪器仪表学会嵌入式仪表及系统技术分会将于2018年 10月 19-21日在山东省烟台市举行“2018 全国嵌入式仪表及系统技术会议”。本次会议由鲁东大学和上海大学联合承办，该系列会议自2009年以来已成功举办9 届，现已成为嵌入式系统及相关领域的专家、学者、业界人士以及研究生进行学术交流、产学互动的重要学术交流会议。&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
-&lt;p&gt;本次是第九届，会议主题是“嵌入式智能系统与测控网络安全专家论坛” ， 旨在讨论嵌入式系统及测控网络、智能感知、 公共服务信息化等领域的最新研究成果和发展趋势， 特别是面临的网络安全与安全测控挑战， 为全国嵌入式系统及相关领域的学者和业内人士提供一个交流最新研究成果、进行广泛学术讨论的平台。届时主办方将邀请相关领域的国内外知名学者和业界精英做精彩学术报告， 同时还将邀请嵌入式技术应用领域的相关企业参加，进行技术研讨和新产品展示等。&lt;/p&gt;
+&lt;p&gt;本次是第十届，会议主题是“嵌入式智能系统与智慧海洋专家论坛”，旨在讨论嵌入式系统及海洋测控网络、海洋大数据采集、智能感知、海洋能源、海洋渔业、水下机器人、船舶制造等领域的最新研究成果和发展趋势，特别是海洋产业在新旧动能转换过程中面临的技术性挑战，为全国嵌入式系统及相关领域的学者和业内人士提供一个交流最新研究成果、进行广泛学术讨论的平台。届时主办方将邀请相关领域的国内外知名学者和业界精英做精彩学术报告，同时还将邀请嵌入式技术应用领域的相关企业参加，进行技术研讨和新产品展示等。&lt;/p&gt;
 
-&lt;p&gt;现特发征文通知，欢迎从事嵌入式系统技术、 智能感知、 公共服务信息化建设、网络及系统安全等领域研究与应用的高校师生、企业科技人员踊跃投稿。有关通知内容如下：&lt;/p&gt;
+&lt;p&gt;现特发征文通知，欢迎从事嵌入式系统技术智能感知、 公共服务信息化建设、网络及系统安全等领域研究与应用的高校师生、企业科技人员踊跃投稿。有关通知内容如下：&lt;/p&gt;
 
 &lt;h4 id=&#34;一-征文内容&#34;&gt;一、征文内容&lt;/h4&gt;
 
@@ -63,9 +109,9 @@
 
 &lt;ol&gt;
 &lt;li&gt;会议接收稿件择优推荐到《仪器仪表学报》（ EI 期刊）、 Recent Advances in Electrical &amp;amp; Electronic Engineering（ EI期刊），《仪表技术》、《电子测量技术》、《国外电子测量技术》 等期刊正刊发表。&lt;/li&gt;
-&lt;li&gt;征文截稿时间： 2017 年 6 月 10 日&lt;/li&gt;
-&lt;li&gt;录用通知时间： 2017 年 7 月 31 日&lt;/li&gt;
-&lt;li&gt;最终稿递交时间： 2017 年 8 月 31 日&lt;/li&gt;
+&lt;li&gt;征文截稿时间：2018年6月20日；&lt;/li&gt;
+&lt;li&gt;论文录用通知时间：2018年7月31日；&lt;/li&gt;
+&lt;li&gt;论文正式稿递交时间：2018年8月31日。&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h4 id=&#34;四-联系信息&#34;&gt;四、 联系信息&lt;/h4&gt;
@@ -95,57 +141,18 @@
 
 &lt;h3 id=&#34;二-联系信息&#34;&gt;二、联系信息&lt;/h3&gt;
 
-&lt;p&gt;联系人：陈 灵 / 魏利胜 / 杨傲雷 / 陈静&lt;/p&gt;
+&lt;p&gt;联系人：陈 灵  / 周文举  / 魏利胜 / 杨傲雷&lt;/p&gt;
 
-&lt;p&gt;电  话：13062619397 / 15212281833 / 17091832206 / 18955435543&lt;/p&gt;
-
-&lt;p&gt;投稿邮箱：embedcis@163.com&lt;/p&gt;
-
-&lt;p&gt;会议网址：&lt;a href=&#34;http://www.eist.org.cn/&#34;&gt;http://www.eist.org.cn/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>关于本会</title>
-      <link>https://eist2017.github.io/about/</link>
-      <pubDate>Fri, 10 Mar 2017 14:05:43 +0800</pubDate>
-      
-      <guid>https://eist2017.github.io/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;欢迎来到第九届全国嵌入式仪表及系统技术会议&#34;&gt;欢迎来到第九届全国嵌入式仪表及系统技术会议&lt;/h1&gt;
-
-&lt;p&gt;为了推进全国嵌入式技术在仪器仪表领域的应用及发展，中国仪器仪表学会嵌入式仪表及系统技术分会将于 2017 年 10 月 20 - 22 日在安徽省淮南市举行“2017 全国嵌入式仪表及系统技术会议”。本次会议由安徽理工大学和上海大 学联合承办，该系列会议自 2009 年以来已成功举办八届，现已成为嵌入式系统及相关领域的专家、学者、业界人士以 及研究生进行学术交流、产学互动的重要学术交流会议。本次是第九届，会议主题是“嵌入式智能系统与测控网络安 全专家论坛”，旨在讨论嵌入式系统及测控网络、智能感知、公共服务信息化等领域的最新研究成果和发展趋势，特 别是面临的网络安全与安全测控挑战，为全国嵌入式系统及相关领域的学者和业内人士提供一个交流最新研究成果、进行广泛学术讨论的平台。届时主办方将邀请相关领域的国内外知名学者和业界精英做精彩学术报告，同时还将邀请 嵌入式技术应用领域的相关企业参加，进行技术研讨和新产品展示等。&lt;/p&gt;
-
-&lt;p&gt;我们热忱欢迎各位同仁莅临本届会议！&lt;/p&gt;
-
-&lt;h2 id=&#34;重要日期&#34;&gt;重要日期：&lt;/h2&gt;
-
-&lt;p&gt;1、 征文截稿时间：2017年6月10日；&lt;/p&gt;
-
-&lt;p&gt;2、 论文录用通知时间：2017年7月31日；&lt;/p&gt;
-
-&lt;p&gt;3、 论文正式稿递交时间：2017年8月31日。&lt;/p&gt;
-
-&lt;h2 id=&#34;联系信息&#34;&gt;联系信息:&lt;/h2&gt;
-
-&lt;p&gt;联系人：陈 灵 / 魏利胜 / 杨傲雷 / 陈静&lt;/p&gt;
-
-&lt;p&gt;电  话：13062619397 / 15212281833 / 17091832206 / 18955435543&lt;/p&gt;
+&lt;p&gt;电  话：13062619397 / 13156929148 / 15212281833 / 17091832206&lt;/p&gt;
 
 &lt;p&gt;投稿邮箱：embedcis@163.com&lt;/p&gt;
 
 &lt;p&gt;会议网址：&lt;a href=&#34;http://www.eist.org.cn/&#34;&gt;http://www.eist.org.cn/&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;往届会议&#34;&gt;往届会议&lt;/h2&gt;
+&lt;h3 id=&#34;三-论文模板&#34;&gt;三、论文模板&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://eist2017.github.io/eist2016/index.html&#34;&gt;第八届全国嵌入式仪表及系统技术会议（河南 郑州）&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://eist2017.github.io/eist2015/index.html&#34;&gt;第七届全国嵌入式仪表及系统技术会议(云南 昆明)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://eist2017.github.io/eist2014/index.html&#34;&gt;第六届全国嵌入式仪表及系统技术会议(上海)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://eist2017.github.io/eist2013/index.html&#34;&gt;第五届全国嵌入式仪表及系统技术会议(江苏 南京)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;为了方便作者投稿，现将论文格式要求和论文模板（在同一文件）发布，供大家下载使用。
+&lt;a href=&#34;https://eist2017.github.io/format.doc&#34;&gt;论文模板下载&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -173,7 +180,7 @@
       <guid>https://eist2017.github.io/faq/</guid>
       <description>
 
-&lt;h1 id=&#34;2017全国嵌入式仪表及系统技术会议组织结构-conference-committees&#34;&gt;2017全国嵌入式仪表及系统技术会议组织结构 (Conference Committees)&lt;/h1&gt;
+&lt;h1 id=&#34;2018全国嵌入式仪表及系统技术会议组织结构-conference-committees&#34;&gt;2018全国嵌入式仪表及系统技术会议组织结构 (Conference Committees)&lt;/h1&gt;
 
 &lt;h3 id=&#34;主办单位-sponsors&#34;&gt;主办单位(Sponsors)：&lt;/h3&gt;
 
@@ -183,7 +190,7 @@
 
 &lt;h3 id=&#34;承办单位-organizing-institutions&#34;&gt;承办单位(Organizing Institutions)：&lt;/h3&gt;
 
-&lt;p&gt;安徽理工大学&lt;/p&gt;
+&lt;p&gt;鲁东大学&lt;/p&gt;
 
 &lt;p&gt;上海大学&lt;/p&gt;
 
