@@ -1,0 +1,93 @@
+.field .field-label {
+	FONT-WEIGHT: bold
+}
+.field .field-label-inline {
+	FONT-WEIGHT: bold
+}
+.field .field-label-inline-first {
+	FONT-WEIGHT: bold
+}
+.field .field-label-inline {
+	DISPLAY: inline
+}
+.field .field-label-inline-first {
+	DISPLAY: inline
+}
+.field .field-label-inline {
+	VISIBILITY: hidden
+}
+.node-form .content-multiple-table TD.content-multiple-drag {
+	PADDING-RIGHT: 0px; WIDTH: 30px
+}
+.node-form .content-multiple-table TD.content-multiple-drag A.tabledrag-handle {
+	PADDING-RIGHT: 0.5em
+}
+.node-form .content-add-more .form-submit {
+	MARGIN: 0px
+}
+.node-form .number {
+	DISPLAY: inline; WIDTH: auto
+}
+.node-form .text {
+	WIDTH: auto
+}
+.form-item #autocomplete .reference-autocomplete {
+	WHITE-SPACE: normal
+}
+.form-item #autocomplete .reference-autocomplete LABEL {
+	DISPLAY: inline; FONT-WEIGHT: normal
+}
+#content-field-overview-form .advanced-help-link {
+	MARGIN: 4px 4px 0px 0px
+}
+#content-display-overview-form .advanced-help-link {
+	MARGIN: 4px 4px 0px 0px
+}
+#content-field-overview-form .label-group {
+	FONT-WEIGHT: bold
+}
+#content-display-overview-form .label-group {
+	FONT-WEIGHT: bold
+}
+#content-copy-export-form .label-group {
+	FONT-WEIGHT: bold
+}
+TABLE#content-field-overview .label-add-new-field {
+	FLOAT: left
+}
+TABLE#content-field-overview .label-add-existing-field {
+	FLOAT: left
+}
+TABLE#content-field-overview .label-add-new-group {
+	FLOAT: left
+}
+TABLE#content-field-overview TR.content-add-new .tabledrag-changed {
+	DISPLAY: none
+}
+TABLE#content-field-overview TR.content-add-new .description {
+	MARGIN-BOTTOM: 0px
+}
+TABLE#content-field-overview .content-new {
+	FONT-WEIGHT: bold; PADDING-BOTTOM: 0.5em
+}
+.advanced-help-topic H3 {
+	MARGIN: 1em 0px 0.5em
+}
+.advanced-help-topic H4 {
+	MARGIN: 1em 0px 0.5em
+}
+.advanced-help-topic H5 {
+	MARGIN: 1em 0px 0.5em
+}
+.advanced-help-topic H6 {
+	MARGIN: 1em 0px 0.5em
+}
+.advanced-help-topic DD {
+	MARGIN-BOTTOM: 0.5em
+}
+.advanced-help-topic SPAN.code {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; FONT-SIZE: 0.9em; PADDING-BOTTOM: 1px; PADDING-TOP: 1px; FONT-FAMILY: "Bitstream Vera Sans Mono",Monaco,"Lucida Console",monospace; BACKGROUND-COLOR: #edf1f3
+}
+.advanced-help-topic .content-border {
+	BORDER-RIGHT: #aaa 1px solid; BORDER-TOP: #aaa 1px solid; BORDER-LEFT: #aaa 1px solid; BORDER-BOTTOM: #aaa 1px solid
+}

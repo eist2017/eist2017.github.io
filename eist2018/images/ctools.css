@@ -1,0 +1,21 @@
+.ctools-locked {
+	BORDER-RIGHT: red 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: red 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; BORDER-LEFT: red 1px solid; COLOR: red; PADDING-TOP: 1em; BORDER-BOTTOM: red 1px solid
+}
+.ctools-owns-lock {
+	BORDER-RIGHT: #f0c020 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: #f0c020 1px solid; PADDING-LEFT: 1em; BACKGROUND: #ffffdd 0px 0px; PADDING-BOTTOM: 1em; BORDER-LEFT: #f0c020 1px solid; PADDING-TOP: 1em; BORDER-BOTTOM: #f0c020 1px solid
+}
+A.ctools-ajaxing {
+	PADDING-RIGHT: 18px! important; BACKGROUND: url(../images/status-active.gif) no-repeat right center
+}
+INPUT.ctools-ajaxing {
+	PADDING-RIGHT: 18px! important; BACKGROUND: url(../images/status-active.gif) no-repeat right center
+}
+BUTTON.ctools-ajaxing {
+	PADDING-RIGHT: 18px! important; BACKGROUND: url(../images/status-active.gif) no-repeat right center
+}
+SELECT.ctools-ajaxing {
+	PADDING-RIGHT: 18px! important; BACKGROUND: url(../images/status-active.gif) no-repeat right center
+}
+DIV.ctools-ajaxing {
+	BACKGROUND: url(../images/status-active.gif) no-repeat center center; FLOAT: left; WIDTH: 18px
+}

@@ -1,0 +1,92 @@
+#header {
+	BACKGROUND: url(/sites/ccc.amss.ac.cn.2012/files/sky_logo.jpg) #fff
+}
+HTML {
+	FONT-FAMILY: Helvetica, Arial, "Nimbus Sans L", "Liberation Sans", "FreeSans", sans-serif
+}
+BODY {
+	FONT-FAMILY: Helvetica, Arial, "Nimbus Sans L", "Liberation Sans", "FreeSans", sans-serif
+}
+.form-radio {
+	FONT-FAMILY: Helvetica, Arial, "Nimbus Sans L", "Liberation Sans", "FreeSans", sans-serif
+}
+.form-checkbox {
+	FONT-FAMILY: Helvetica, Arial, "Nimbus Sans L", "Liberation Sans", "FreeSans", sans-serif
+}
+.form-file {
+	FONT-FAMILY: Helvetica, Arial, "Nimbus Sans L", "Liberation Sans", "FreeSans", sans-serif
+}
+.form-select {
+	FONT-FAMILY: Helvetica, Arial, "Nimbus Sans L", "Liberation Sans", "FreeSans", sans-serif
+}
+SELECT {
+	FONT-FAMILY: Helvetica, Arial, "Nimbus Sans L", "Liberation Sans", "FreeSans", sans-serif
+}
+.form-text {
+	FONT-FAMILY: Helvetica, Arial, "Nimbus Sans L", "Liberation Sans", "FreeSans", sans-serif
+}
+INPUT {
+	FONT-FAMILY: Helvetica, Arial, "Nimbus Sans L", "Liberation Sans", "FreeSans", sans-serif
+}
+.form-textarea {
+	FONT-FAMILY: Helvetica, Arial, "Nimbus Sans L", "Liberation Sans", "FreeSans", sans-serif
+}
+TEXTAREA {
+	FONT-FAMILY: Helvetica, Arial, "Nimbus Sans L", "Liberation Sans", "FreeSans", sans-serif
+}
+H1 {
+	font-family: "MS Serif", "New York", serif;
+
+}
+H2 {
+	FONT-FAMILY: Helvetica, Arial, "Nimbus Sans L", "Liberation Sans", FreeSans, sans-serif;
+	font-weight: bold;
+	font-size: xx-large;
+	text-align: center;
+}
+H3 {
+	FONT-FAMILY: Helvetica, Arial, "Nimbus Sans L", "Liberation Sans", "FreeSans", sans-serif;
+	font-weight: bold;
+}
+H4 {
+	FONT-FAMILY: Helvetica, Arial, "Nimbus Sans L", "Liberation Sans", "FreeSans", sans-serif
+}
+H5 {
+	FONT-FAMILY: Helvetica, Arial, "Nimbus Sans L", "Liberation Sans", "FreeSans", sans-serif
+}
+H6 {
+	FONT-FAMILY: Helvetica, Arial, "Nimbus Sans L", "Liberation Sans", "FreeSans", sans-serif
+}
+#wrapper {
+	FONT-SIZE: 12px
+}
+#header {
+	HEIGHT: 120px
+}
+#wrapper {
+	WIDTH: 960px
+}
+#footer {
+	WIDTH: 960px
+}
+.both #sidebar-left {
+	WIDTH: 18%
+}
+.both #main {
+	WIDTH: 62%
+}
+.both #sidebar-right {
+	WIDTH: 20%
+}
+.left #sidebar-left {
+	WIDTH: 18%
+}
+.left #main {
+	WIDTH: 82%
+}
+.right #main {
+	WIDTH: 80%
+}
+.right #sidebar-right {
+	WIDTH: 20%
+}

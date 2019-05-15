@@ -1,0 +1,72 @@
+.views-exposed-form .views-exposed-widget {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; PADDING-TOP: 0.5em
+}
+.views-exposed-form .views-exposed-widget .form-submit {
+	MARGIN-TOP: 1.6em
+}
+.views-exposed-form .form-item {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+.views-exposed-form .form-submit {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+.views-exposed-form LABEL {
+	FONT-WEIGHT: bold
+}
+.views-exposed-widgets {
+	MARGIN-BOTTOM: 0.5em
+}
+HTML.js A.views-throbbing {
+	PADDING-RIGHT: 18px; BACKGROUND: url(../images/status-active.gif) no-repeat right center
+}
+HTML.js SPAN.views-throbbing {
+	PADDING-RIGHT: 18px; BACKGROUND: url(../images/status-active.gif) no-repeat right center
+}
+DIV.view DIV.views-admin-links {
+	MARGIN-TOP: 1em; FONT-SIZE: xx-small; MARGIN-RIGHT: 1em
+}
+.block DIV.view DIV.views-admin-links {
+	MARGIN-TOP: 0px
+}
+DIV.view DIV.views-admin-links UL {
+	PADDING-LEFT: 0px
+}
+DIV.view DIV.views-admin-links LI A {
+	COLOR: #ccc
+}
+DIV.view DIV.views-admin-links LI {
+	Z-INDEX: 201; PADDING-BOTTOM: 2px
+}
+DIV.view DIV.views-admin-links-hover A {
+	COLOR: #000
+}
+DIV.view DIV.views-admin-links:hover A {
+	COLOR: #000
+}
+DIV.view DIV.views-admin-links-hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+DIV.view DIV.views-admin-links:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+DIV.view DIV.views-admin-links A:unknown {
+	content: "["
+}
+DIV.view DIV.views-admin-links A:unknown {
+	content: "]"
+}
+DIV.view DIV.views-hide {
+	DISPLAY: none
+}
+DIV.view DIV.views-hide-hover {
+	DISPLAY: block; Z-INDEX: 200; POSITION: absolute
+}
+DIV.view:hover DIV.views-hide {
+	DISPLAY: block; Z-INDEX: 200; POSITION: absolute
+}
+DIV.view:hover DIV.views-hide {
+	MARGIN-TOP: -1.5em
+}
+.views-view-grid TBODY {
+	BORDER-TOP-STYLE: none
+}

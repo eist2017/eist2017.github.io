@@ -1,0 +1,51 @@
+.node-unpublished {
+	BACKGROUND-COLOR: #fff4f4
+}
+.preview .node {
+	BACKGROUND-COLOR: #ffffea
+}
+#node-admin-filter UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#node-admin-buttons {
+	CLEAR: right; FLOAT: left; MARGIN-LEFT: 0.5em
+}
+TD.revision-current {
+	BACKGROUND: #ffc
+}
+.node-form .form-text {
+	DISPLAY: block; WIDTH: 95%
+}
+.node-form .container-inline .form-text {
+	DISPLAY: inline; WIDTH: auto
+}
+.node-form .standard {
+	CLEAR: both
+}
+.node-form TEXTAREA {
+	DISPLAY: block; WIDTH: 95%
+}
+.node-form .attachments FIELDSET {
+	DISPLAY: block; FLOAT: none
+}
+.terms-inline {
+	DISPLAY: inline
+}
+#homepage #wrapper #container #main .main-inner #content .panel-display.panel-1col.clear-block .panel-panel.panel-col div .panel-pane.pane-custom.pane-1 .pane-content h1 {
+	text-align: left;
+}
+#homepage #wrapper #container #main .main-inner h1 {
+	font-size: 2px;
+}
+#homepage #wrapper #container #main .main-inner h1 {
+	font-size: 3px;
+}
+#homepage #wrapper #container #main .main-inner h1 {
+	font-size: 30px;
+}
+#homepage #wrapper #container #main .main-inner h1 {
+	font-size: 25px;
+}
+#homepage #wrapper #container #main .main-inner h1 {
+	font-size: 20px;
+}
